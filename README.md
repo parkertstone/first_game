@@ -1,2 +1,2 @@
-# new_game
-Simple game made with pygame to practice python
+# first_game
+Simple game made with pygame to practice python.
